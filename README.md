@@ -8,3 +8,4 @@
 7-Put sqlite db file in a folder and modify connection string accordingly. 
 8-Putting Sqlite db in folder is optional to easily arrange and upgrade folder read write permissions in remote plesk hosting. 
 9-Db browser for Sqlite is management studio for Sqlite. Download and install it to work with internal structures and tables in Sqlite.
+10-Sqlite is 2-3 times faster than Mysql. But it does not have serving multi user at once feature. Sqlite does not have stored procedure feature.
